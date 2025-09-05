@@ -1,0 +1,3 @@
+{"task_id": "0389e7fb-8291-af35-4a97-08d80bb68a1d", "idx": 0, "channel": "is_math_task", "type": "msgpack", "value_base64": "ww=="}
+{"task_id": "0389e7fb-8291-af35-4a97-08d80bb68a1d", "idx": 1, "channel": "refromed_user_query", "type": "msgpack", "value_base64": "2TpDYWxjdWxhdGUgdGhlIHJlc3VsdCBvZiB0aGUgbWF0aGVtYXRpY2FsIGV4cHJlc3Npb246IDIgKyAy"}
+{"task_id": "0389e7fb-8291-af35-4a97-08d80bb68a1d", "idx": 2, "channel": "branch:to:math", "type": "null", "value_base64": ""}

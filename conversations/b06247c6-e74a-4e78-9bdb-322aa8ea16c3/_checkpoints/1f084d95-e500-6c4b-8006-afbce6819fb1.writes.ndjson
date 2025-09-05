@@ -1,0 +1,2 @@
+{"task_id": "5ea6a9bf-9616-8743-4921-2fbba95635b6", "idx": 0, "channel": "messages", "type": "msgpack", "value_base64": "kYKqdXNlcl9xdWVyeat3aGF0IGlzIDIrMqZhbnN3ZXLZMFRoZSByZXN1bHQgb2YgdGhlIGV4cHJlc3Npb24gXCgyICsgMlwpIGlzIFwoNFwpLg=="}
+{"task_id": "5ea6a9bf-9616-8743-4921-2fbba95635b6", "idx": 1, "channel": "branch:to:debug_state", "type": "null", "value_base64": ""}

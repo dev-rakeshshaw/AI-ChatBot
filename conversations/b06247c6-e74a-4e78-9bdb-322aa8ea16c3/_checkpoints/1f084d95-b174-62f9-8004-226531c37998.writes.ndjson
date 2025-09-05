@@ -1,0 +1,2 @@
+{"task_id": "58e220a2-118e-aae0-cb13-6d98e04c868c", "idx": 0, "channel": "current_user_query", "type": "msgpack", "value_base64": "q3doYXQgaXMgMisy"}
+{"task_id": "58e220a2-118e-aae0-cb13-6d98e04c868c", "idx": 1, "channel": "branch:to:classify", "type": "null", "value_base64": ""}

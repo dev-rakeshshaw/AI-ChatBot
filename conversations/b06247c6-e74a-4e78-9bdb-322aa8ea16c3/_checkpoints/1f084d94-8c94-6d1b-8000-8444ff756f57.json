@@ -1,0 +1,14 @@
+{
+  "type": "msgpack",
+  "checkpoint_base64": "h6F2BKJ0c9kgMjAyNS0wOC0yOVQxMzowODo0MS4yNDA2NzgrMDA6MDCiaWTZJDFmMDg0ZDk0LThjOTQtNmQxYi04MDAwLTg0NDRmZjc1NmY1N65jaGFubmVsX3ZhbHVlc4KyY3VycmVudF91c2VyX3F1ZXJ5omhpsmJyYW5jaDp0bzpjbGFzc2lmecCwY2hhbm5lbF92ZXJzaW9uc4OpX19zdGFydF9f2SAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMrJjdXJyZW50X3VzZXJfcXVlcnnZIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAysmJyYW5jaDp0bzpjbGFzc2lmedkgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDKtdmVyc2lvbnNfc2VlboKpX19pbnB1dF9fgKlfX3N0YXJ0X1+BqV9fc3RhcnRfX9kgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDGwdXBkYXRlZF9jaGFubmVsc5KyYnJhbmNoOnRvOmNsYXNzaWZ5smN1cnJlbnRfdXNlcl9xdWVyeQ==",
+  "metadata": {
+    "source": "loop",
+    "step": 0,
+    "parents": {}
+  },
+  "new_versions": {
+    "__start__": "00000000000000000000000000000002",
+    "current_user_query": "00000000000000000000000000000002",
+    "branch:to:classify": "00000000000000000000000000000002"
+  }
+}

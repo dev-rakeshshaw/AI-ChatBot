@@ -1,0 +1,3 @@
+{"task_id": "6b27015d-9daa-e466-fbe7-c63ff29f6b0b", "idx": 0, "channel": "is_math_task", "type": "msgpack", "value_base64": "wg=="}
+{"task_id": "6b27015d-9daa-e466-fbe7-c63ff29f6b0b", "idx": 1, "channel": "refromed_user_query", "type": "msgpack", "value_base64": "2TFXaGF0IHdhcyB0aGUgbGFzdCBxdWVzdGlvbiB0aGF0IHdhcyBhc2tlZCB0byB5b3U/"}
+{"task_id": "6b27015d-9daa-e466-fbe7-c63ff29f6b0b", "idx": 2, "channel": "branch:to:chat", "type": "null", "value_base64": ""}

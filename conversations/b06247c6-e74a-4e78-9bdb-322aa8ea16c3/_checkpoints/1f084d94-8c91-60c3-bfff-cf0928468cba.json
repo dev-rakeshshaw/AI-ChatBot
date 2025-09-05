@@ -1,0 +1,12 @@
+{
+  "type": "msgpack",
+  "checkpoint_base64": "h6F2BKJ0c9kgMjAyNS0wOC0yOVQxMzowODo0MS4yMzkxNTIrMDA6MDCiaWTZJDFmMDg0ZDk0LThjOTEtNjBjMy1iZmZmLWNmMDkyODQ2OGNiYa5jaGFubmVsX3ZhbHVlc4GpX19zdGFydF9fgbJjdXJyZW50X3VzZXJfcXVlcnmiaGmwY2hhbm5lbF92ZXJzaW9uc4GpX19zdGFydF9f2SAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMa12ZXJzaW9uc19zZWVugalfX2lucHV0X1+AsHVwZGF0ZWRfY2hhbm5lbHORqV9fc3RhcnRfXw==",
+  "metadata": {
+    "source": "input",
+    "step": -1,
+    "parents": {}
+  },
+  "new_versions": {
+    "__start__": "00000000000000000000000000000001"
+  }
+}

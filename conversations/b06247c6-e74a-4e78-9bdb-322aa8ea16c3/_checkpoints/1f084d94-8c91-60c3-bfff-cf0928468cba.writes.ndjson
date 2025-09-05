@@ -1,0 +1,2 @@
+{"task_id": "2796a0ad-811d-f348-91d6-24369e26b9bd", "idx": 0, "channel": "current_user_query", "type": "msgpack", "value_base64": "omhp"}
+{"task_id": "2796a0ad-811d-f348-91d6-24369e26b9bd", "idx": 1, "channel": "branch:to:classify", "type": "null", "value_base64": ""}
